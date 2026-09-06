@@ -1,0 +1,14 @@
+{
+  "name": "genpark-mcp-tool-definition-pydantic-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Synthesizes Model Context Protocol (MCP) tool schemas directly from native Python function signatures and type hints.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "schema-generator",
+    "type-hints",
+    "introspection",
+    "genpark"
+  ]
+}
